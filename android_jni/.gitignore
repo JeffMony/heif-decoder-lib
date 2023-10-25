@@ -77,3 +77,4 @@ ios/Podfile.lock
 .flutter-plugins-dependencies
 .last_build_id
 .fvm
+app/.cxx/
